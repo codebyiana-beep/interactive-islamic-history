@@ -11,7 +11,7 @@ Welcome to the **Interactive Islamic History Web Template**! A beautifully desig
 * **Clean Code:** Easily customizable HTML/CSS structure for beginners.
 
 ## 🚀 Live Demo
-See the template in action here: [👉 Click Here for Live Preview 👈](https://github.com/codebyiana-beep/interactive-islamic-history)
+See the template in action here: [👉 Click Here for Live Preview 👈](https://codebyiana-beep.github.io/interactive-islamic-history/)
 ## 🛒 Get The Full Code
 Want to use this template for your project or website? You can get the full source code (ZIP) here:
 👉 **[Download on Gumroad ($3)](https://ianacode.gumroad.com/l/wbfypi)** 👈
